@@ -1,0 +1,15 @@
+html {
+    background-color: black;
+}
+
+header {
+    font-size: 50px;
+    color: gray
+}
+
+section {
+    color: darkolivegreen;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 20px;
+    text-align: center
+}
